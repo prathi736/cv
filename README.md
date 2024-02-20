@@ -1,1 +1,1 @@
-# cv
+# Simple HTML CV 😎
